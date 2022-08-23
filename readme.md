@@ -17,6 +17,7 @@ Read these before starting your challenge:
  - Read all the instructions
  - Projects will be accepted until August 31, 2022. After that, we will not review it.
  - Mentorship are going to be scheduled between the mentor and mentee.
+ - You need to sign up here to be elegible for a code review: https://a6y3j6lvf5o.typeform.com/to/xXTfD5fG
  - Join our discord to send in your project for review: https://discord.gg/hVZ6YZJNH3
  - **You must use: React, Typescript & create-react-app**, all other technologies are up to you.
 
