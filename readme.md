@@ -6,6 +6,8 @@ We are building our website and all projects will be displayed as our members po
 
 All projects will be reviewed by senior professionals and will have immersive feedback at each point of improvement/optimization culminating in an individual mentorship with each participant. We target junior devs but mid-levels can and will be accepted as well.
 
+This challenge is based on a company test, so you could end up seeing this in an interview 😉
+
 <Good luck & have fun />
 
 ## First of all
